@@ -3,9 +3,9 @@
 **Plant Disease Detection-Cure using CNN (2025):** 
 CNN based image processing model for plant disease detection.
 
-![Plant Disease Detection-Cure](/images/Project1/Picture1.png)
-![Plant Disease Detection-Cure](/images/Project1/Picture2.png)
-![Plant Disease Detection-Cure](/images/Project1/Picture3.png)
+![Plant Disease Detection-Cure](/images/project1/Picture1.png)
+![Plant Disease Detection-Cure](/images/project1/Picture2.png)
+![Plant Disease Detection-Cure](/images/project1/Picture3.png)
 
 **Loan Eligibility Prediction System (HSBC, 2024):** 
 Piloted a Python-ML based loan eligibility prediction system in HSBC.
