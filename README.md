@@ -5,7 +5,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 📱 Mobile Banking App Implementation (HSBC, 2024)
-![Mobile App](image/projects4.ico)
+![Mobile App](image/projects2.ico)
 
 **Summary:** Led the development of HSBC’s mobile banking app to align with a 25% business growth target.  
 **Tech Stack:** `React Native` `Java` `Kotlin` `Firebase` `CI/CD`  
