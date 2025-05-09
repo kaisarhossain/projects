@@ -5,7 +5,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 📱 Mobile Banking App Implementation (HSBC, 2024)
-![Mobile App](image/projects2.ico)
+![Mobile App](icons/project1.png)
 
 **Summary:** Led the development of HSBC’s mobile banking app to align with a 25% business growth target.  
 **Tech Stack:** `React Native` `Java` `Kotlin` `Firebase` `CI/CD`  
@@ -14,7 +14,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 💸 EFT Capacity Enhancement (HSBC, 2023)
-![EFT](image/projects7.ico)
+![EFT](icons/project2.png)
 
 **Summary:** Boosted HSBC's EFT system capacity by 300% through performance tuning and analytics-driven optimization.  
 **Tech Stack:** `Java` `Spring Boot` `Oracle` `Grafana` `Prometheus`  
@@ -23,7 +23,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 🏦 Loan Eligibility Prediction System (HSBC, 2024)
-![Loan ML](image/projects3.ico)
+![Loan ML](icons/project3.png)
 
 **Summary:** Built a machine learning system to predict loan eligibility using customer financial data.  
 **Tech Stack:** `Python` `Pandas` `Scikit-learn` `SVM` `Flask`  
@@ -32,7 +32,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 🌿 Plant Disease Detection & Cure (2025)
-![Plant Disease](image/projects4.ico)
+![Plant Disease](icons/project4.png)
 
 **Summary:** Developed a CNN model that identifies plant diseases from leaf images and suggests treatments.  
 **Tech Stack:** `Python` `TensorFlow` `Keras` `OpenCV` `Streamlit`  
@@ -41,7 +41,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 🤖 NLP Chatbot & Order Management System (2025)
-![Chatbot](image/projects5.ico)
+![Chatbot](icons/project5.png)
 
 **Summary:** Built an intelligent chatbot with integrated order management using Dialogflow and FastAPI.  
 **Tech Stack:** `Dialogflow` `FastAPI` `MySQL` `Python` `Ngrok`  
@@ -50,7 +50,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 🧠 Automatic Content Creator using GenAI (2025)
-![GenAI](image/projects9.ico)
+![GenAI](icons/project6.png)
 
 **Summary:** A Generative AI tool that creates articles, resumes, and summaries from web links or raw text.  
 **Tech Stack:** `LangChain` `Groq Cloud` `Python` `LLMs`  
@@ -59,7 +59,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 🧾 Job Hunt Automation using RAG (2025)
-![RAG System](image/projects8.ico)
+![RAG System](image/career_summary.ico)
 
 **Summary:** A Retrieval-Augmented Generation (RAG) system to automate job applications and document creation.  
 **Tech Stack:** `Python` `LangChain` `ChromaDB` `OpenAI/Groq` `Streamlit`  
