@@ -4,6 +4,13 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 
 ---
 
+## 📫 Contact Me
+Feel free to connect or collaborate!
+
+🔗 [LinkedIn](https://linkedin.com/in/kaisarhossain/) • 📧 kaisar.hossain@gmail.com
+
+---
+
 ## 📱 Mobile Banking App Implementation (HSBC, 2024)
 ![Mobile App](icons/project1.png)
 
@@ -66,8 +73,3 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 🎥 [Watch Demo](https://www.youtube.com/watch?v=your-demo-link)
 
 ---
-
-## 📫 Contact Me
-Feel free to connect or collaborate!
-
-🔗 [LinkedIn](https://linkedin.com/in/kaisarhossain/) • 📧 kaisar.hossain@gmail.com
