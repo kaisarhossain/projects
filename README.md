@@ -14,7 +14,7 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 ---
 
 ## 💸 EFT Capacity Enhancement (HSBC, 2023)
-![EFT](image/projects5.ico)
+![EFT](image/projects7.ico)
 
 **Summary:** Boosted HSBC's EFT system capacity by 300% through performance tuning and analytics-driven optimization.  
 **Tech Stack:** `Java` `Spring Boot` `Oracle` `Grafana` `Prometheus`  
