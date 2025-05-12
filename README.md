@@ -15,7 +15,7 @@ Feel free to connect or collaborate!
 ![Chatbot](icons/project5.png)
 
 **Summary:** Built an intelligent chatbot with integrated order management using Dialogflow and FastAPI.  
-**Tech Stack:** `Dialogflow` `|` `FastAPI` `|` `MySQL` `|` `Python` `|` `Ngrok`  
+**Tech Stack:** `Dialogflow` `|` `NLP` `|` `FastAPI` `|` `MySQL` `|` `Python` `|` `Ngrok`  
 🎥 [Watch Demo](https://youtu.be/FXdmZJ5D6ME)
 
 ---
@@ -47,7 +47,7 @@ Feel free to connect or collaborate!
 
 ---
 
-## 🏦 Loan Eligibility Prediction System (HSBC, 2024)
+## 🏦 Loan Eligibility Prediction System (2024)
 ![Loan ML](icons/project3.png)
 
 **Summary:** Built a machine learning system to predict loan eligibility using customer financial data.  
