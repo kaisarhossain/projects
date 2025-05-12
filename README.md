@@ -56,19 +56,19 @@ Feel free to connect or collaborate!
 
 ---
 
+## 📱 HSBC My Calendar (HSBC, 2023)
+![Mobile App](icons/project1.png)
+
+**Summary:** Led the development of HSBC Calendar App customized for Bangladesh market. The app is capable of supporting multi-language (English, Bengali, Arabik), moon-site based custom holidays, Prayer time alerts and a campaign communication system. It is the first HSBC Local App development tailored for HSBC Bangladesh Operations.  
+**Tech Stack:** `Flutter` `|` `Firebase` `|` `CI/CD`   `|` `Firebase` `|` `CI/CD`  
+
+---
+
 ## 📱 Mobile Banking App Implementation (HSBC, 2024)
 ![Mobile App](icons/project1.png)
 
 **Summary:** Led the development of HSBC’s mobile banking app to align with a 25% business growth target.  
-**Tech Stack:** `React Native` `|` `Java` `|` `Kotlin` `|` `Firebase` `|` `CI/CD`  
-
----
-
-## 📱 HSBC My Calendar (HSBC, 2023)
-![Mobile App](icons/project1.png)
-
-**Summary:** Led the development of HSBC Mobile App which is the first local App development in HSBC Bangladesh.  
-**Tech Stack:** `Flutter` `|` `Firebase` `|` `CI/CD`  
+**Tech Stack:** `React Native` `|` `Java` `|` `Kotlin`
 
 ---
 
