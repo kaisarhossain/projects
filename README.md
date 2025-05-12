@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c0cf32c-5240-4059-920a-bec92268079d)# 🚀 My Project Portfolio
+![image]# 🚀 My Project Portfolio
 
 Welcome to my curated project showcase! Below you'll find a collection of my key projects demonstrating my work in Machine Learning, Deep Learning, Generative AI, Full-Stack development, and NLP.
 
