@@ -1,4 +1,4 @@
-![image]# 🚀 My Project Portfolio
+## 🚀 My Project Portfolio
 
 Welcome to my curated project showcase! Below you'll find a collection of my key projects demonstrating my work in Machine Learning, Deep Learning, Generative AI, Full-Stack development, and NLP.
 
