@@ -15,7 +15,7 @@ Feel free to connect or collaborate!
 ![Chatbot](icons/project5.png)
 
 **Summary:** Built an intelligent chatbot with integrated order management using Dialogflow and FastAPI.  
-**Tech Stack:** `Dialogflow` `|` `NLP` `|` `FastAPI` `|` `MySQL` `|` `Python` `|` `Ngrok`  
+**Tech Stack:** `Dialogflow` `|` `NLP` `|` `FastAPI` `|` `MySQL` `|` `Python` `|` `Ngrok` `|` `JavaScript`
 🎥 [Watch Demo](https://youtu.be/FXdmZJ5D6ME)
 
 ---
@@ -24,17 +24,8 @@ Feel free to connect or collaborate!
 ![Plant Disease](icons/project4.png)
 
 **Summary:** Developed a CNN model that identifies plant diseases from leaf images and suggests treatments.  
-**Tech Stack:** `Python` `|` `TensorFlow` `|` `Keras` `|` `OpenCV` `|` `Streamlit`  
+**Tech Stack:** `Python` `|` `TensorFlow` `|` `Keras` `|` `OpenCV` `|` `JavaScript` `|` `FastAPI`
 🎥 [Watch Demo](https://youtu.be/QVX944amiuU)
-
----
-
-## 🧠 Automatic Content Creator using GenAI (2025)
-![GenAI](icons/project6.png)
-
-**Summary:** A Generative AI tool that creates articles, resumes, and summaries from web links or raw text.  
-**Tech Stack:** `LangChain` `|` `Groq Cloud` `|` `Python` `|` `LLMs`  
-🎥 [Watch Demo](https://youtu.be/nZsBJbWv_h8)
 
 ---
 
@@ -44,6 +35,15 @@ Feel free to connect or collaborate!
 **Summary:** A Retrieval-Augmented Generation (RAG) system to automate job applications and document creation.  
 **Tech Stack:** `Python` `|` `LangChain` `|` `ChromaDB` `|` `OpenAI/Groq` `|` `Streamlit`
 🎥 [Watch Demo](https://youtu.be/i1Zrmp6KFGs)
+
+---
+
+## 🧠 Automatic Content Creator using GenAI (2025)
+![GenAI](icons/project6.png)
+
+**Summary:** A Generative AI tool that creates articles, resumes, and summaries from web links or raw text.  
+**Tech Stack:** `LangChain` `|` `Groq Cloud` `|` `Python` `|` `LLMs`  
+🎥 [Watch Demo](https://youtu.be/nZsBJbWv_h8)
 
 ---
 
