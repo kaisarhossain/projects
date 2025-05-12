@@ -15,7 +15,7 @@ Feel free to connect or collaborate!
 ![Chatbot](icons/project5.png)
 
 **Summary:** Built an intelligent chatbot with integrated order management using Dialogflow and FastAPI.  
-**Tech Stack:** `Dialogflow` `FastAPI` `MySQL` `Python` `Ngrok`  
+**Tech Stack:** `Dialogflow` `|` `FastAPI` `|` `MySQL` `|` `Python` `|` `Ngrok`  
 🎥 [Watch Demo](https://youtu.be/FXdmZJ5D6ME)
 
 ---
