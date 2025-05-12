@@ -15,7 +15,7 @@ Feel free to connect or collaborate!
 ![Chatbot](icons/project5.png)
 
 **Summary:** Built an intelligent chatbot with integrated order management using Dialogflow and FastAPI.  
-**Tech Stack:** `Dialogflow` `|` `NLP` `|` `FastAPI` `|` `MySQL` `|` `Python` `|` `Ngrok` `|` `JavaScript`
+**Tech Stack:** `Dialogflow` `|` `NLP` `|` `FastAPI` `|` `MySQL` `|` `Python` `|` `Ngrok` `|` `JavaScript`  
 🎥 [Watch Demo](https://youtu.be/FXdmZJ5D6ME)
 
 ---
@@ -24,7 +24,7 @@ Feel free to connect or collaborate!
 ![Plant Disease](icons/project4.png)
 
 **Summary:** Developed a CNN model that identifies plant diseases from leaf images and suggests treatments.  
-**Tech Stack:** `Python` `|` `TensorFlow` `|` `Keras` `|` `OpenCV` `|` `JavaScript` `|` `FastAPI`
+**Tech Stack:** `Python` `|` `TensorFlow` `|` `Keras` `|` `OpenCV` `|` `JavaScript` `|` `FastAPI`  
 🎥 [Watch Demo](https://youtu.be/QVX944amiuU)
 
 ---
@@ -33,7 +33,7 @@ Feel free to connect or collaborate!
 ![RAG System](image/career_summary.ico)
 
 **Summary:** A Retrieval-Augmented Generation (RAG) system to automate job applications and document creation.  
-**Tech Stack:** `Python` `|` `LangChain` `|` `ChromaDB` `|` `OpenAI/Groq` `|` `Streamlit`
+**Tech Stack:** `Python` `|` `LangChain` `|` `ChromaDB` `|` `OpenAI/Groq` `|` `Streamlit`  
 🎥 [Watch Demo](https://youtu.be/i1Zrmp6KFGs)
 
 ---
@@ -51,7 +51,7 @@ Feel free to connect or collaborate!
 ![Loan ML](icons/project3.png)
 
 **Summary:** Built a machine learning system to predict loan eligibility using customer financial data.  
-**Tech Stack:** `Python` `|` `EDA` `|` `Pandas` `|` `Scikit-learn` `|` `FastAPI` `|` `Streamlit` `|` `SVM` `|` `XGBoost`
+**Tech Stack:** `Python` `|` `EDA` `|` `Pandas` `|` `Scikit-learn` `|` `FastAPI` `|` `Streamlit` `|` `SVM` `|` `XGBoost`  
 🎥 [Watch Demo](https://youtu.be/esdWcIsgdzU)
 
 ---
@@ -60,7 +60,7 @@ Feel free to connect or collaborate!
 ![Mobile App](icons/project1.png)
 
 **Summary:** Led the development of HSBC’s mobile banking app to align with a 25% business growth target.  
-**Tech Stack:** `React Native` `|` `Java` `|` `Kotlin` `|` `Firebase` `|` `CI/CD`
+**Tech Stack:** `React Native` `|` `Java` `|` `Kotlin` `|` `Firebase` `|` `CI/CD`  
 
 ---
 
@@ -68,7 +68,7 @@ Feel free to connect or collaborate!
 ![Mobile App](icons/project1.png)
 
 **Summary:** Led the development of HSBC Mobile App which is the first local App development in HSBC Bangladesh.  
-**Tech Stack:** `Flutter` `|` `Firebase` `|` `CI/CD`
+**Tech Stack:** `Flutter` `|` `Firebase` `|` `CI/CD`  
 
 ---
 
