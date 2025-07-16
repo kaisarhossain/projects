@@ -11,7 +11,6 @@ Feel free to connect or collaborate!
 
 ---
 
-
 ## 🩺 AI Dermatologist: Discreet & Accessible Skin Health Guidance (JUL'2025)
 ![Chatbot](icons/project10.png)
 
