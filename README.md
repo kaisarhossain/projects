@@ -8,7 +8,9 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 Feel free to connect or collaborate!
 
 🔗 [LinkedIn](https://linkedin.com/in/kaisarhossain/) • 📧 kaisar.hossain@gmail.com
+
 ---
+
 
 ## 🩺 AI Dermatologist: Discreet & Accessible Skin Health Guidance (JUL'2025)
 ![Chatbot](icons/project10.png)
