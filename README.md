@@ -8,10 +8,18 @@ Welcome to my curated project showcase! Below you'll find a collection of my key
 Feel free to connect or collaborate!
 
 🔗 [LinkedIn](https://linkedin.com/in/kaisarhossain/) • 📧 kaisar.hossain@gmail.com
+---
+
+## 🩺 AI Dermatologist: Discreet & Accessible Skin Health Guidance (JUL'2025)
+![Chatbot](icons/project10.png)
+
+**Summary:** Built an AI Dermatologist web application for preliminary skin condition analysis, integrating multimodal AI for image and symptom assessment with natural language processing.  
+**Tech Stack:** `Streamlit` `|` `Groq API` `|` `Llama (Multimodal)` `|` `gTTS` `|` `Python` `|` `Pydub` `|` `FPDF` `|` `Pillow`
+🎥 [Watch Demo](https://youtu.be/FXdmZJ5D6ME)
 
 ---
 
-## 🤖 NLP Chatbot & Order Management System (2025)
+## 🤖 NLP Chatbot & Order Management System (JUN'2025)
 ![Chatbot](icons/project5.png)
 
 **Summary:** Built an intelligent chatbot with integrated order management using Dialogflow and FastAPI.  
@@ -20,7 +28,7 @@ Feel free to connect or collaborate!
 
 ---
 
-## 📈 Urban Form Dashboard (2025)
+## 📈 Urban Form Dashboard (MAY'2025)
 ![Chatbot](icons/project7.png)
 
 **Summary:** This project analyzes spatial and transit-related data from over 4,900 U.S. transit stations to identify urban development patterns within proximity buffers (200m, 400m, 800m). The outcome is an interactive Streamlit dashboard that leverages advanced data analytics and visualization techniques to provide insights into the distribution of buildings, facility types, and transit modes, aiding in urban planning and development decisions.  
@@ -29,8 +37,7 @@ Feel free to connect or collaborate!
 
 ---
 
-
-## 🌿 Plant Disease Detection & Cure (2025)
+## 🌿 Plant Disease Detection & Cure (APR'2025)
 ![Plant Disease](icons/project4.png)
 
 **Summary:** Developed a CNN model that identifies plant diseases from leaf images and suggests treatments.  
@@ -39,7 +46,7 @@ Feel free to connect or collaborate!
 
 ---
 
-## 🧾 Job Hunt Automation using RAG (2025)
+## 🧾 Job Hunt Automation using RAG (MAR'2025)
 ![RAG System](image/career_summary.ico)
 
 **Summary:** A Retrieval-Augmented Generation (RAG) system to automate job applications and document creation.  
@@ -48,7 +55,7 @@ Feel free to connect or collaborate!
 
 ---
 
-## 🧠 Automatic Content Creator using GenAI (2025)
+## 🧠 Automatic Content Creator using GenAI (FEB'2025)
 ![GenAI](icons/project6.png)
 
 **Summary:** A Generative AI tool that creates articles, resumes, and summaries from web links or raw text.  
@@ -57,7 +64,7 @@ Feel free to connect or collaborate!
 
 ---
 
-## 🏦 Loan Eligibility Prediction System (2024)
+## 🏦 Loan Eligibility Prediction System (DEC'2024)
 ![Loan ML](icons/project3.png)
 
 **Summary:** Built a machine learning system to predict loan eligibility using customer financial data.  
@@ -65,8 +72,14 @@ Feel free to connect or collaborate!
 🎥 [Watch Demo](https://youtu.be/esdWcIsgdzU)
 
 ---
+## 📱 Mobile Banking App Implementation (HSBC, OCT'2024)
+![Mobile App](icons/project1.png)
 
-## 📱 HSBC My Calendar (HSBC, 2023)
+**Summary:** Led the development of HSBC’s mobile banking app to align with a 25% business growth target.  
+**Tech Stack:** `React Native` `|` `Java` `|` `Kotlin`
+
+---
+## 📱 HSBC My Calendar (HSBC, MAY'2023)
 ![Mobile App](icons/project1.png)
 
 **Summary:** Led the development of HSBC Calendar App customized for Bangladesh market. The app is capable of supporting multi-language (English, Bengali, Arabik), moon-site based custom holidays, Prayer time alerts and a campaign communication system. It is the first HSBC Local App development tailored for HSBC Bangladesh Operations.  
@@ -74,12 +87,6 @@ Feel free to connect or collaborate!
 
 ---
 
-## 📱 Mobile Banking App Implementation (HSBC, 2024)
-![Mobile App](icons/project1.png)
 
-**Summary:** Led the development of HSBC’s mobile banking app to align with a 25% business growth target.  
-**Tech Stack:** `React Native` `|` `Java` `|` `Kotlin`
-
----
 
 
