@@ -15,6 +15,7 @@ Feel free to connect or collaborate!
 
 **Summary:** Built an AI Dermatologist web application for preliminary skin condition analysis, integrating multimodal AI for image and symptom assessment with natural language processing.  
 **Tech Stack:** `Streamlit` `|` `Groq API` `|` `Llama (Multimodal)` `|` `gTTS` `|` `Python` `|` `Pydub` `|` `FPDF` `|` `Pillow`
+
 🎥 [Watch Demo](https://youtu.be/Jlgfb5rJ0eY)
 
 ---
