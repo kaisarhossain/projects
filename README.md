@@ -34,8 +34,8 @@ Feel free to connect or collaborate!
 
 **Summary:** This project analyzes spatial and transit-related data from over 4,900 U.S. transit stations to identify urban development patterns within proximity buffers (200m, 400m, 800m). The outcome is an interactive Streamlit dashboard that leverages advanced data analytics and visualization techniques to provide insights into the distribution of buildings, facility types, and transit modes, aiding in urban planning and development decisions.  
 **Tech Stack:** `Streamlit` `|` `Python` `|` `streamlit-folium` `|` `Stream Cloud` `|` `plotly-express` `|` `Seaborn` `|` `Matplotlib`  
-📈 [Watch Demo](https://tod-urbanform-dashboard.streamlit.app/?embed_options=light_theme,show_toolbar)
-
+📈 [Watch Demo](https://tod-urbanform-dashboard.streamlit.app/?embed_options=light_theme,show_toolbar)  
+👉 [App Link](https://www.transitorienteddiscoveries.com/blog/urban-form-placeholder-title)
 ---
 
 ## 🌿 Plant Disease Detection & Cure (APR'2025)
@@ -43,8 +43,8 @@ Feel free to connect or collaborate!
 
 **Summary:** Developed a CNN model that identifies plant diseases from leaf images and suggests treatments.  
 **Tech Stack:** `Python` `|` `TensorFlow` `|` `Keras` `|` `OpenCV` `|` `JavaScript` `|` `FastAPI`  
-🎥 [Watch Demo](https://youtu.be/QVX944amiuU)
-
+🎥 [Watch Demo](https://youtu.be/QVX944amiuU)  
+👉 [App Link](https://huggingface.co/spaces/kaisarhossain/PlantDiseaseCure)
 ---
 
 ## 🧾 Job Hunt Automation using RAG (MAR'2025)
@@ -61,8 +61,8 @@ Feel free to connect or collaborate!
 
 **Summary:** A Generative AI tool that creates articles, resumes, and summaries from web links or raw text.  
 **Tech Stack:** `LangChain` `|` `Groq Cloud` `|` `Python` `|` `LLMs`  
-🎥 [Watch Demo](https://youtu.be/nZsBJbWv_h8)
-
+🎥 [Watch Demo](https://youtu.be/nZsBJbWv_h8)  
+👉 [App Link](https://kaisar-social-media-post-genai.streamlit.app/)
 ---
 
 ## 🏦 Loan Eligibility Prediction System (DEC'2024)
