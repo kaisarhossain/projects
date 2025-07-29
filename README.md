@@ -17,7 +17,8 @@ Feel free to connect or collaborate!
 **Summary:** Built an AI Dermatologist web application for preliminary skin condition analysis, integrating multimodal AI for image and symptom assessment with natural language processing.  
 **Tech Stack:** `Streamlit` `|` `Groq API` `|` `Llama (Multimodal)` `|` `gTTS` `|` `Python` `|` `Pydub` `|` `FPDF` `|` `Pillow`  
 🎥 [Watch Demo](https://youtu.be/Jlgfb5rJ0eY)  
-👉 [App Link](https://lnkd.in/gbirhAYk)
+👉 [App Link](https://kaisar-ai-dermatologist.streamlit.app/)
+
 ---
 
 ## 🤖 NLP Chatbot & Order Management System (JUN'2025)
@@ -35,7 +36,8 @@ Feel free to connect or collaborate!
 **Summary:** This project analyzes spatial and transit-related data from over 4,900 U.S. transit stations to identify urban development patterns within proximity buffers (200m, 400m, 800m). The outcome is an interactive Streamlit dashboard that leverages advanced data analytics and visualization techniques to provide insights into the distribution of buildings, facility types, and transit modes, aiding in urban planning and development decisions.  
 **Tech Stack:** `Streamlit` `|` `Python` `|` `streamlit-folium` `|` `Stream Cloud` `|` `plotly-express` `|` `Seaborn` `|` `Matplotlib`  
 📈 [Watch Demo](https://tod-urbanform-dashboard.streamlit.app/?embed_options=light_theme,show_toolbar)  
-👉 [App Link](https://www.transitorienteddiscoveries.com/blog/urban-form-placeholder-title)
+👉 [App Link](https://tod-urbanform-dashboard.streamlit.app/?embed_options=light_theme,show_toolbar)
+
 ---
 
 ## 🌿 Plant Disease Detection & Cure (APR'2025)
@@ -45,6 +47,7 @@ Feel free to connect or collaborate!
 **Tech Stack:** `Python` `|` `TensorFlow` `|` `Keras` `|` `OpenCV` `|` `JavaScript` `|` `FastAPI`  
 🎥 [Watch Demo](https://youtu.be/QVX944amiuU)  
 👉 [App Link](https://huggingface.co/spaces/kaisarhossain/PlantDiseaseCure)
+
 ---
 
 ## 🧾 Job Hunt Automation using RAG (MAR'2025)
@@ -63,6 +66,7 @@ Feel free to connect or collaborate!
 **Tech Stack:** `LangChain` `|` `Groq Cloud` `|` `Python` `|` `LLMs`  
 🎥 [Watch Demo](https://youtu.be/nZsBJbWv_h8)  
 👉 [App Link](https://kaisar-social-media-post-genai.streamlit.app/)
+
 ---
 
 ## 🏦 Loan Eligibility Prediction System (DEC'2024)
@@ -73,6 +77,7 @@ Feel free to connect or collaborate!
 🎥 [Watch Demo](https://youtu.be/esdWcIsgdzU)
 
 ---
+
 ## 📱 Mobile Banking App Implementation (HSBC, OCT'2024)
 ![Mobile App](icons/project1.png)
 
@@ -80,6 +85,7 @@ Feel free to connect or collaborate!
 **Tech Stack:** `React Native` `|` `Java` `|` `Kotlin`
 
 ---
+
 ## 📱 HSBC My Calendar (HSBC, MAY'2023)
 ![Mobile App](icons/project1.png)
 
