@@ -12,7 +12,7 @@ Feel free to connect or collaborate!
 ---
 
 ##  Cardinal Assist (AI Chatbot) (DEC'2025)
-![Chatbot](icons/chatbot.jpeg)
+![Chatbot](icons/chatbot1.png)
 
 **Summary:** Built an intelligent RAG-powered chatbot for The Catholic University of America, providing instant answers to student queries about admissions, enrollment, financial aid, and campus life.  
 **Tech Stack:** `Pythjon` `|` `RAG` `|` `FAISS` `|` `gTTS` `|` `Streamlit` `|` `Chatbot` `|` `VectorDB` `|` `Embedding: all-MiniLM-L6-v2` 
